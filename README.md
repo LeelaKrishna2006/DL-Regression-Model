@@ -74,8 +74,8 @@ y_train_tensor = torch.tensor(y_train, dtype=torch.float32).view(-1, 1)
 X_test_tensor = torch.tensor(X_test, dtype=torch.float32)
 y_test_tensor = torch.tensor(y_test, dtype=torch.float32).view(-1, 1)
 
-# Name:B.Khaja Rasool
-# Register Number:212224230040
+# Name:ARANI VENKATA SUNDARA LEELA KRISHNA
+# Register Number:212224240013
 class NeuralNet(nn.Module):
   def init(self):
         super().init()
